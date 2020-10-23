@@ -1,0 +1,46 @@
+.navbar{
+    background-color: dimgrey;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+// .footer{
+//     position: absolute;
+//     bottom: 0;
+//     width: 100%;
+//     height: 100px;
+//     line-height: 100px;
+//     background-color: bisque;
+//     text-align: center;
+// }
+.weather-img{
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+}
+.weather-car{
+    width: 60%;
+}
+
+.weather-card{
+    width: 235px;
+}
+.search-weather-card{
+    width: 350px;
+}
+
+.card-bg-img{
+    object-fit: cover;
+    width: 100%;
+    // height: 175px;
+    height: 286px;
+}
+.card{
+    border-radius: 10px;   
+}
+
+.chart{
+    width: 600px;
+}
